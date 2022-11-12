@@ -3,7 +3,7 @@ Bootcamp da DIO para TQI Fullstack Developer.
 
 O programa apresenta cursos, desafios práticos e mentorias em tecnologias essenciais para front-end e back-end.
 
-O bootcamp está dividido em 8 módulos:
+O bootcamp está dividido em 8 módulos, e para cada módulo, irei adicionar minhas anotações a cada aula.
 
 ## **- Módulo I - Conteúdo de abertura**
 
@@ -21,7 +21,6 @@ O bootcamp está dividido em 8 módulos:
 
 ## **- Módulo VIII - QA (Quality Assurance)**
 
-Para cada módulo, irei adicionar minhas anotações a cada aula.
 
 ### Links Úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
