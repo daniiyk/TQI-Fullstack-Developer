@@ -25,4 +25,5 @@ Para cada módulo, irei adicionar minhas anotações a cada aula.
 
 ### Links Úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+
 [Gitignore](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files)
