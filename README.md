@@ -22,3 +22,7 @@ O bootcamp está dividido em 8 módulos:
 ## **- Módulo VIII - QA (Quality Assurance)**
 
 Para cada módulo, irei adicionar minhas anotações a cada aula.
+
+### Links Úteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Gitignore](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files)
